@@ -1,4 +1,4 @@
-# 📊 Mitron Bank Credit Card Pilot Project – Data Analytics Dashboard
+#  Mitron Bank Credit Card Pilot Project – Data Analytics Dashboard
 
 This project is part of the **Codebasics Resume Project Challenge**. The objective was to perform a comprehensive analysis of customer spending behavior using a sample dataset provided by Mitron Bank, to support the launch of a new line of credit cards. The outcome is a data-driven Power BI dashboard with actionable insights aimed at top-level management and product strategy teams.
 
@@ -91,8 +91,8 @@ Identifies total spend through credit card transactions to help evaluate credit 
 ## 📊 Dashboard Features
 
 * **Demographic Visuals:** Age, gender, marital status, and occupation distribution.
-* **Geographic Analysis:** Spending patterns across cities.
-* **Income Utilization Heatmap:** Cross-segmented by occupation and age.
+* **Expenditure Analysis:** Spending patterns among various age groups and occupations, Understanding the income utilisation among customers.
+* **Income utilisation:** Understand the income utilisation among various demography.
 * **Credit Card Trends:** Comparison of credit card vs non-credit card spending.
 * **Custom Tooltips & Interactivity:** Drilldowns and slicers for dynamic analysis.
 
@@ -111,17 +111,9 @@ Identifies total spend through credit card transactions to help evaluate credit 
 * Highest credit card usage was observed in the **25–34 age group**, primarily among **salaried IT employees**.
 * Cities like **Mumbai** and **Bangalore** show higher average monthly spending.
 * **Income Utilization** is highest among freelancers and IT professionals, indicating strong potential for tailored credit products.
-* **Married males** in salaried roles are key high-spend customers.
-
----
-
-## 📽️ Presentation & Delivery
-
-This dashboard was presented to the strategy team at Mitron Bank with a 15-minute concise walkthrough of:
-
-* Analytical approach
-* Key takeaways
-* Strategic suggestions
+* Identified two key **Customer Segments** viz **High income utilisation** and **High expenditure lifestyle**.
+* Tailored two credit card products **Mithron Udaan Rise** and **Mithron EmpowerHer** with various attractive offers.
+* These targeted initiatives will help boost Mithron Bank`s customer base in credit card portfolio increasing **Number of credit card transactions by 64.8K** and **15% increase in share of credit card** transactions over Debit Card, UPI & Netbanking.
 
 ---
 
@@ -135,7 +127,7 @@ This dashboard was presented to the strategy team at Mitron Bank with a 15-minut
 ## 📌 Author
 
 **Mohammed Hashir**
-Data Enthusisast | Power BI | Ex-Spotfire Developer
+Data Enthusisast | Power BI | Tableau | Spotfire
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-hashir-22432b22/) 
 📧 [Email]
     (mohammedhashir2605@gmail.com)
