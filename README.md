@@ -1,4 +1,4 @@
-#  Mitron Bank Credit Card Pilot Project – Data Analytics Dashboard
+#  Credit Card Pilot Project – 
 
 This project is part of the **Codebasics Resume Project Challenge**. The objective was to perform a comprehensive analysis of customer spending behavior using a sample dataset provided by Mitron Bank, to support the launch of a new line of credit cards. The outcome is a data-driven Power BI dashboard with actionable insights aimed at top-level management and product strategy teams.
 
